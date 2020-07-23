@@ -22,10 +22,10 @@ scenario 2: page level frequency option -> should show next action as ususal acr
 test type: qa
 benji environment: qa
 user credentials:
-username: siteowner1
+username: siteowner2
 password: (same as prod)
 
-customerId: 3142
+customerId: 3143
 campaignId:
 
 pages:
