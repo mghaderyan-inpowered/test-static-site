@@ -26,7 +26,7 @@ username: siteowner2
 password: (same as prod)
 
 customerId: 3143
-campaignId:
+campaignId: 39120
 
 pages:
 https://mghaderyan-inpowered.github.io/test-static-site/test-site-qa/page1.html
