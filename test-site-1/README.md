@@ -16,3 +16,19 @@ http://localhost.com:8080/test-site-1/page3.html
 
 scenario 1: no frequency option -> should show next action as ususal
 scenario 2: page level frequency option -> should show next action as ususal across pages but in each page it should respect the frequency
+
+---
+
+test type: qa
+benji environment: qa
+user credentials:
+username: siteowner1
+password: (same as prod)
+
+customerId: 3142
+campaignId:
+
+pages:
+https://mghaderyan-inpowered.github.io/test-static-site/test-site-qa/page1.html
+https://mghaderyan-inpowered.github.io/test-static-site/test-site-qa/page2.html
+https://mghaderyan-inpowered.github.io/test-static-site/test-site-qa/page3.html
